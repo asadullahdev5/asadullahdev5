@@ -1,16 +1,69 @@
-## Hi there 👋
 
-<!--
-**asadullahdev5/asadullahdev5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Asadullah 👋  
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="https://linkedin.com/in/asad-ullah-553b152b3">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://github.com/asadullahdev5">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://personal-pink-alpha.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-20C20E?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 😊 **Glad to see you here!** ![Profile Views](https://komarev.com/ghpvc/?username=asadullahdev5&color=blue)
+
+
+I am a **Python Developer** 🐍 with a deep interest in **Data Science, Machine Learning, and Backend Development**.  
+I love solving complex problems and contributing to open-source projects.  
+
+💡 **Currently Exploring:**  
+🔹 **Django & FastAPI** for backend development.  
+🔹 **Deep Learning & AI-powered applications**.  
+🔹 **System Design & Databases**.  
+
+---
+
+## 🛠 **Talking about Personal Stuffs:**  
+
+<table>
+<tr>
+<td width="55%">
+<ul>
+<li> 🔭 I'm currently working on <b>exciting AI & Python projects</b>. </li>
+<li> 📖 I'm learning <b>MLOps & Cloud Computing</b>. </li>
+<li> 💬 Ask me anything about <b>Python, Data Science, or Backend Development</b>. </li>
+<li> 📫 How to reach me: <b>asadullahdev5@gmail.com</b> </li>
+<li> 📄 <a href="https://your-resume-link.com"><b>Resume</b></a> </li>
+</ul>
+</td>
+<td width="45%">
+<p align="right">
+ <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="400px">
+
+</p>
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 **This Week I Spent My Time On:**
+```text
+Python         15 hrs 10 mins ███████████░░░░░░░░░  60%
+
+Django         7 hrs 46 mins  █████░░░░░░░░░░░░░░  30%
+
+SQL            2 hrs 17 mins  ██░░░░░░░░░░░░░░░░░░  10%
+
+---
+
+### :fire: My Stats :
+![asadullahdev5's Stats](https://github-readme-stats.vercel.app/api?username=asadullahdev5&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
