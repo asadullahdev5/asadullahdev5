@@ -59,8 +59,7 @@ I love solving complex problems and contributing to open-source projects.
 <br>
 
 ## 📊 **This Week I Spent My Time On:**
-<table>
+
 Python      15 hrs 10 mins  ████████████████████░░  60%<br>
 Django       7 hrs 46 mins  ██████████░░░░░░░░░░░  30%<br>
 SQL         2 hrs 17 mins  ███░░░░░░░░░░░░░░░░░░  10%
-</table>
