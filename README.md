@@ -29,14 +29,6 @@ I love solving complex problems and contributing to open-source projects.
 🔹 **Deep Learning & AI-powered applications**.  
 🔹 **System Design & Databases**.  
 
-## 📊 **GitHub Stats**
-https://github-readme-stats.vercel.app/api?username=asadullahdev5
-## 💻 Most Used Languages
-![Asadullah's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahdev5&layout=compact&theme=radical)
-## 🔥 GitHub Streak Stats
-![Asadullah's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=asadullahdev5&theme=radical)
-
-
 ---
 
 ## 🛠 **Talking about Personal Stuffs:**  
@@ -73,8 +65,27 @@ SQL            2 hrs 17 mins  ██░░░░░░░░░░░░░░�
 
 ---
 
-## 📊 **GitHub Stats**
-https://github-readme-stats.vercel.app/api?username=asadullahdev5
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <b>GitHub Profile Stats</b>
+    </td>
+    <td>
+      <b>Most Used Languages</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=asadullahdev5&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahdev5&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
+
 
 
 
