@@ -67,5 +67,5 @@ SQL            2 hrs 17 mins  ██░░░░░░░░░░░░░░�
 </table>
 
  
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asadullahdev5)
+![asadullahdev5's Stats](https://github-readme-stats.vercel.app/api?username=asadullahdev5&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![asadullahdev5's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahdev5&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
