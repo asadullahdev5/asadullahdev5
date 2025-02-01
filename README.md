@@ -29,6 +29,8 @@ I love solving complex problems and contributing to open-source projects.
 🔹 **Deep Learning & AI-powered applications**.  
 🔹 **System Design & Databases**.  
 
+## 📊 **GitHub Stats**
+https://github-readme-stats.vercel.app/api?username=asadullahdev5
 ---
 
 ## 🛠 **Talking about Personal Stuffs:**  
