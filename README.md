@@ -54,7 +54,7 @@ I love solving complex problems and contributing to open-source projects.
 </table>
 
 ---
-
+<table>
 ## 📊 **This Week I Spent My Time On:**
 ```text
 Python         15 hrs 10 mins ███████████░░░░░░░░░  60%
@@ -64,28 +64,6 @@ Django         7 hrs 46 mins  █████░░░░░░░░░░░�
 SQL            2 hrs 17 mins  ██░░░░░░░░░░░░░░░░░░  10%
 
 ---
-
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <b>GitHub Profile Stats</b>
-    </td>
-    <td>
-      <b>Most Used Languages</b>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=asadullahdev5&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahdev5&layout=compact&theme=radical" />
-    </td>
-  </tr>
 </table>
 
-
-
-
+![asadullahdev5's Stats](https://github-readme-stats.vercel.app/api?username=asadullahdev5&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
