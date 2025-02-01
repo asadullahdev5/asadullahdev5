@@ -31,6 +31,9 @@ I love solving complex problems and contributing to open-source projects.
 
 ## 📊 **GitHub Stats**
 https://github-readme-stats.vercel.app/api?username=asadullahdev5
+## 💻 Most Used Languages
+![Asadullah's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahdev5&layout=compact&theme=radical)
+
 ---
 
 ## 🛠 **Talking about Personal Stuffs:**  
