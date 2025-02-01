@@ -65,8 +65,8 @@ SQL            2 hrs 17 mins  ██░░░░░░░░░░░░░░�
 
 ---
 
-### :fire: My Stats :
-
+## 📊 **This Week I Spent My Time On:**
+```text
 [![GitHub Streak](https://streak-stats.demolab.com?user=asadullahdev5)](https://git.io/streak-stats)
 
 
