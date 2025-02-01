@@ -65,8 +65,14 @@ SQL            2 hrs 17 mins  ██░░░░░░░░░░░░░░�
 
 ---
 
-## 📊 **This Week I Spent My Time On:**
-```text
-[![GitHub Streak](https://streak-stats.demolab.com?user=asadullahdev5)](https://git.io/streak-stats)
+## 📊 **GitHub Stats**
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=asadullahdev5&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=asadullahdev5&theme=radical" />
+</p>
+
+[![Asadullah's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=asadullahdev5&layout=compact&theme=radical)](https://wakatime.com/)
+
+
 
 
