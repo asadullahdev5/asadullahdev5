@@ -55,3 +55,12 @@ I love solving complex problems and contributing to open-source projects.
 
 ## 📈 GitHub Stats & Most Used Languages
 <table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=asadullahdev5&show_icons=true&theme=light" width="100%"> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahdev5&layout=compact&theme=light" width="100%"> </td> </tr> </table>
+
+<br>
+
+## 📊 **This Week I Spent My Time On:**
+<table>
+Python      15 hrs 10 mins  ████████████████████░░  60%
+Django       7 hrs 46 mins  ██████████░░░░░░░░░░░  30%
+SQL         2 hrs 17 mins  ███░░░░░░░░░░░░░░░░░░  10%
+</table>
