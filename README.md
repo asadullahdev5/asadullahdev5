@@ -39,7 +39,7 @@ I love solving complex problems and contributing to open-source projects.
 <ul>
 <li> 🔭 I'm currently working on <b>exciting AI & Python projects</b>. </li>
 <li> 📖 I'm learning <b>MLOps & Cloud Computing</b>. </li>
-<li> 💬 Ask me anything about <b>Python, Data Science, or Backend Development</b>. </li>
+<li> 💬 Ask me anything about <b>Python,, Data Science, or Backend Development</b>. </li>
 <li> 📫 How to reach me: <b>asadullahdev5@gmail.com</b> </li>
 <li> 📄 <a href="https://drive.google.com/file/d/1-tax_LZSbij6lAXZNJHHm0Xp0IH_tGTl/view?usp=sharing"><b>Resume</b></a> </li>
 </ul>
