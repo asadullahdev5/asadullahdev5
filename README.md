@@ -14,79 +14,63 @@
 
 ---
 
-## 💻 About Me
-
-<table border="0">
-  <tr>
-    <td width="60%">
-      <p>
-        I am a <b>Software Engineer</b> specializing in the <b>Java Ecosystem</b> ☕. 
-        I build robust, scalable applications and thrive on solving complex algorithmic challenges.
-      </p>
-      <p>
-        💡 <b>Currently Exploring:</b><br>
-        • 🚀 <b>Spring Boot & Microservices</b> for enterprise apps.<br>
-        • ☁️ <b>Cloud Native Java</b> (Docker & Kubernetes).<br>
-        • 🏗️ <b>System Design</b> & Low-Level Design (LLD).
-      </p>
-      <p>
-        📫 Reach me at: <b>asadullahdev5@gmail.com</b><br>
-        📄 <a href="https://drive.google.com/file/d/1-tax_LZSbij6lAXZNJHHm0Xp0IH_tGTl/view?usp=sharing"><b>View My Resume</b></a>
-      </p>
-    </td>
-    <td width="40%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR2NWl0NWZ6eGN3d3N0bnYydnpqMno0dnloYzdqdXR5NWZ4ZmVnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8n6A8/giphy.gif" width="100%" alt="3D Isometric Programmer Setup">
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠 Tech Stack (The Java Universe)
-
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white" alt="Hibernate">
-  
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" alt="Maven">
-  <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit">
-</p>
-
----
-
-## 📊 My Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadullahdev5&theme=radical" alt="GitHub Streak" />
-</p>
-
-### 🗓️ Weekly Contribution Breakdown
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asadullahdev5&theme=monokai" width="100%">
-</p>
-
----
-
-## 📈 GitHub Metrics
+## ☕ Java Developer | Backend Enthusiast | Problem Solver
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=asadullahdev5&show_icons=true&theme=dracula" width="100%"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahdev5&layout=compact&theme=dracula" width="100%"></td>
+    <td width="60%">
+      <h3>🚀 About Me</h3>
+      <ul>
+        <li>☕ <b>Passionate Java Developer</b> focused on building robust systems.</li>
+        <li>🌱 Currently mastering <b>Spring Boot & System Design</b>.</li>
+        <li>💡 Love solving <b>DSA & Backend Problems</b>.</li>
+        <li>📚 Exploring <b>Databases & Scalable Applications</b>.</li>
+        <li>🎯 Goal: Become a <b>Professional Software Engineer</b>.</li>
+        <li>📫 Reach me: <b>asadullahdev5@gmail.com</b></li>
+      </ul>
+    </td>
+    <td width="40%">
+      <!-- 3D Tech Animation (Neutral/Professional) -->
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0N3VpZ3pwa29hbm94ZzR6bnZ4ZmVnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8n6A8/giphy.gif" width="100%" alt="3D Workspace">
+    </td>
   </tr>
 </table>
 
-<br>
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Data_Structures-FF9900?style=for-the-badge&logo=algorithm&logoColor=white" alt="DSA">
 </p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=asadullahdev5&theme=onedark&column=7" width="100%" alt="Trophies">
+</p>
+
+## 📊 Activity & Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadullahdev5&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=asadullahdev5&show_icons=true&theme=tokyonight" width="100%"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahdev5&layout=compact&theme=tokyonight" width="100%"></td>
+  </tr>
+</table>
+
+### 📈 Weekly Development Breakdown
+```text
+Java           ████████████████████░░░░░░  55%
+Spring Boot    █████████░░░░░░░░░░░░░░░░░  25%
+DSA            ████░░░░░░░░░░░░░░░░░░░░░░  12%
+MySQL          ███░░░░░░░░░░░░░░░░░░░░░░░   8%
