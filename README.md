@@ -1,4 +1,4 @@
-# Hi there, I'm Asadullah 👋 
+# Hi there, I'm Asadullah 👋
 
 <p align="left">
   <a href="https://linkedin.com/in/asad-ullah-553b152b3">
@@ -10,72 +10,94 @@
   <a href="https://personal-pink-alpha.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-20C20E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
-  <a href="mailto:asadullahdev5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
 </p>
 
 ---
 
-## ☕ About Me | Java Backend Engineer
-![Profile Views](https://komarev.com/ghpvc/?username=asadullahdev5&color=007396&style=flat-square&label=Profile+Views)
+<h2>😊 Glad to see you here!</h2>
 
-I am a passionate **Java Developer** focusing on building scalable, high-performance **Enterprise Applications**. I specialize in creating robust backends using the **Spring Ecosystem** and designing **Microservices Architecture**.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=asadullahdev5&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+</p>
 
-💡 **Current Focus:**
-- 🚀 **Spring Boot & Microservices**: Building resilient and distributed systems.
-- 🏗️ **System Design**: Mastering Scalability, Load Balancing, and Caching.
-- ☁️ **Cloud Native**: Working with Docker, Kubernetes, and AWS.
-- 🛡️ **Clean Code**: Implementing SOLID principles and Design Patterns.
+<img align="right" alt="Coding" width="350" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
----
-
-## 🛠 Tech Stack & Tools
-
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | Java (8/11/17+), SQL |
-| **Frameworks** | Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate |
-| **Architecture** | Microservices, RESTful APIs, Event-Driven (Kafka/RabbitMQ) |
-| **Databases** | MySQL, PostgreSQL, MongoDB, Redis |
-| **Tools & DevOps** | Maven, Gradle, Docker, Git, JUnit, Mockito |
+<p>
+I am a <b>Java Developer ☕</b> passionate about 
+<b>Backend Development, Problem Solving, and Software Engineering</b>.  
+I enjoy building scalable applications and improving my programming skills through coding challenges and real-world projects.
+</p>
 
 ---
 
-## 📊 Performance & Statistics
+<h2>💡 Currently Exploring</h2>
+
+<ul>
+  <li>🔹 Core Java & Advanced Java</li>
+  <li>🔹 Spring Boot & Backend Development</li>
+  <li>🔹 Data Structures & Algorithms (DSA)</li>
+  <li>🔹 Database Management Systems (MySQL)</li>
+</ul>
+
+---
+
+<h2>🛠 Talking about Personal Stuff</h2>
 
 <table>
 <tr>
-<td width="55%">
-<h3>🎯 What I'm working on:</h3>
-<ul>
-  <li>🔭 Building a <b>Microservices-based E-commerce Backend</b>.</li>
-  <li>📖 Deep diving into <b>Distributed Systems & Kafka</b>.</li>
-  <li>💬 Ask me about <b>Java, Spring Boot, or Database Optimization</b>.</li>
-  <li>📫 Let's connect: <b>asadullahdev5@gmail.com</b></li>
-  <li>📄 <a href="https://drive.google.com/file/d/1-tax_LZSbij6lAXZNJHHm0Xp0IH_tGTl/view?usp=sharing"><b>My Professional Resume</b></a></li>
-</ul>
+<td width="50%">
+
+* 🔭 Currently working on **Java & Backend Projects**
+* 📖 Learning **Spring Boot & System Design**
+* 💬 Ask me about **Java, OOP, DSA, and Backend Development**
+* 📫 Reach me at: **[asadullahdev5@gmail.com](mailto:asadullahdev5@gmail.com)**
+* 📄 <a href="https://drive.google.com/file/d/1-tax_LZSbij6lAXZNJHHm0Xp0IH_tGTl/view?usp=sharing">Resume</a>
+
 </td>
-<td width="45%">
-  <p align="right">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahdev5&layout=compact&theme=vision-friendly-dark" width="100%">
-  </p>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=asadullahdev5&show_icons=true&theme=tokyonight" width="100%" />
+
 </td>
 </tr>
 </table>
 
-<br>
+---
+
+<h2>📈 Most Used Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asadullahdev5&show_icons=true&theme=vision-friendly-dark" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadullahdev5&theme=vision-friendly-dark" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahdev5&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📈 Weekly Activity (Java Ecosystem)
+<h2>📊 Weekly Development Breakdown</h2>
 
 ```text
-Java ☕         12 hrs 45 mins  ████████████████████░░  65%
-Spring Boot 🌱  8 hrs 20 mins   ███████████░░░░░░░░░░░  30%
-SQL/NoSQL 🛢️    2 hrs 10 mins   ███░░░░░░░░░░░░░░░░░░░  5%
+Java          14 hrs 20 mins  ███████████████████░░   55%
+Spring Boot    6 hrs 40 mins  █████████░░░░░░░░░░░   25%
+DSA             3 hrs 10 mins  ████░░░░░░░░░░░░░░░   12%
+MySQL           2 hrs 00 mins  ██░░░░░░░░░░░░░░░░░    8%
+```
+
+---
+
+<h2>🚀 Goals for 2026</h2>
+
+<p>
+✔ Master Java & Spring Boot <br>
+✔ Solve 500+ DSA Problems <br>
+✔ Build Scalable Backend Applications <br>
+✔ Contribute to Open Source Projects <br>
+✔ Become a Professional Software Engineer
+</p>
+
+---
+
+<h2>⚡ Fun Fact</h2>
+
+<p>
+I love turning ideas into real-world applications using Java and continuously learning new technologies 🚀
+</p>
