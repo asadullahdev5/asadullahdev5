@@ -1,13 +1,14 @@
 <div align="center">
+
 # 👋 Hey, I'm Asadullah
 
 ### ☕ Java Developer | Backend Enthusiast | Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Hi+I'm+Asadullah;Java+Developer;Spring+Boot+Learner;DSA+Enthusiast;Backend+Developer;Always+Learning+New+Things" />  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Hi+I'm+Asadullah;Java+Developer;Spring+Boot+Learner;DSA+Enthusiast;Backend+Developer;Always+Learning+New+Things" />
 
-<br><br>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=asadullahdev5&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=asadullahdev5&label=Profile%20Views&color=2F80ED&style=for-the-badge" />
 
 </div>
 
