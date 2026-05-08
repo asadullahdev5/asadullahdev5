@@ -35,7 +35,7 @@
       </p>
     </td>
     <td width="40%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzR6bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="3D Computer Animation">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR2NWl0NWZ6eGN3d3N0bnYydnpqMno0dnloYzdqdXR5NWZ4ZmVnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8n6A8/giphy.gif" width="100%" alt="3D Isometric Programmer Setup">
     </td>
   </tr>
 </table>
