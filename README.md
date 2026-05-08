@@ -120,4 +120,34 @@ MySQL            8%
 
 ### ✨ “Code. Learn. Build. Repeat.” ✨
 
-</div>
+</div
+
+
+
+
+
+  <!-- Option 1 : Professional Coding GIF -->
+
+<img align="right" alt="Coding" width="350" 
+src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+<!-- Option 2 : Dark Hacker Style -->
+
+<img align="right" alt="Coding" width="350" 
+src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
+<!-- Option 3 : Clean Programmer GIF -->
+
+<img align="right" alt="Coding" width="350" 
+src="https://user-images.githubusercontent.com/74038190/212744275-2d0f5b8f-6a7a-4d58-bc5f-3f8f5c5b7c4b.gif">
+
+<!-- Option 4 : Futuristic Developer -->
+
+<img align="right" alt="Coding" width="350" 
+src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+
+<!-- Option 5 : Java / Backend Style -->
+
+<img align="right" alt="Coding" width="350" 
+src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
