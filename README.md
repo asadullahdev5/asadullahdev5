@@ -122,32 +122,5 @@ MySQL            8%
 
 </div
 
-<!-- Java Neon Animation -->
-
-<img align="right" alt="Java Coding" width="380"
-src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
-
-<!-- Java Programmer -->
-
-<img align="right" alt="Java Developer" width="380"
-src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
-
-<!-- Java + Coding Style -->
-
-<img align="right" alt="Java Backend Developer" width="380"
-src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
-
-<!-- Best Professional Java Style -->
-
-<img align="right" alt="Java Developer" width="380"
-src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/coding.gif">
-
-Ye wala sabse zyada professional lagta hai Java/backend README ke liye:
-
-```html id="y8r3pw"
-<img align="right" alt="Java Developer" width="380"
-src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/coding.gif">
-```
-
 
 
