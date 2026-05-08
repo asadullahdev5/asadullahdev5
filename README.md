@@ -1,65 +1,123 @@
+<div align="center">
 
-# Hi there, I'm Asadullah 👋  
+# 👋 Hey, I'm Asadullah
 
-<p align="left">
-  <a href="https://linkedin.com/in/asad-ullah-553b152b3">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://github.com/asadullahdev5">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://personal-pink-alpha.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-20C20E?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio">
-  </a>
-</p>
+### ☕ Java Developer | Backend Enthusiast | Problem Solver
 
----
-
-## 😊 **Glad to see you here!** ![Profile Views](https://komarev.com/ghpvc/?username=asadullahdev5&color=blue)
-
-
-I am a **Python Developer** 🐍 with a deep interest in **Data Science, Machine Learning, and Backend Development**.  
-I love solving complex problems and contributing to open-source projects.  
-
-💡 **Currently Exploring:**  
-🔹 **Django & FastAPI** for backend development.  
-🔹 **Deep Learning & AI-powered applications**.  
-🔹 **System Design & Databases**.  
-
----
-
-## 🛠 **Talking about Personal Stuffs:**  
-
-<table>
-<tr>
-<td width="55%">
-<ul>
-<li> 🔭 I'm currently working on <b>exciting AI & Python projects</b>. </li>
-<li> 📖 I'm learning <b>MLOps & Cloud Computing</b>. </li>
-<li> 💬 Ask me anything about <b>Python, Data Science, or Backend Development</b>. </li>
-<li> 📫 How to reach me: <b>asadullahdev5@gmail.com</b> </li>
-<li> 📄 <a href="https://drive.google.com/file/d/1-tax_LZSbij6lAXZNJHHm0Xp0IH_tGTl/view?usp=sharing"><b>Resume</b></a> </li>
-</ul>
-</td>
-<td width="45%">
-<p align="right">
- <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="400px">
-
-</p>
-</td>
-</tr>
-</table>
-
-## 📈 GitHub Stats & Most Used Languages
-<table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=asadullahdev5&show_icons=true&theme=light" width="100%"> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahdev5&layout=compact&theme=light" width="100%"> </td> </tr> </table>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Learner;DSA+Enthusiast;Backend+Developer;Always+Learning+New+Things" />
 
 <br>
 
-## 📊 **This Week I Spent My Time On:**
+<a href="https://linkedin.com/in/asad-ullah-553b152b3">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-Python      15 hrs 10 mins  ████████████████████░░  60%<br>
-Django       7 hrs 46 mins  ██████████░░░░░░░░░░░  30%<br>
-SQL         2 hrs 17 mins  ███░░░░░░░░░░░░░░░░░░  10%
+<a href="https://github.com/asadullahdev5">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://personal-pink-alpha.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=asadullahdev5&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
+
+---
+
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+
+## 🚀 About Me
+
+* ☕ Passionate **Java Developer**
+* 🌱 Currently learning **Spring Boot & System Design**
+* 💡 Love solving **DSA & Backend Problems**
+* 📚 Exploring **Databases & Scalable Applications**
+* 🎯 Goal: Become a **Professional Software Engineer**
+* 📫 Reach me at: **[asadullahdev5@gmail.com](mailto:asadullahdev5@gmail.com)**
+
+<br><br>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,html,css,js,vscode" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=asadullahdev5&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=asadullahdev5&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 💻 Most Used Languages
+
+<div align="center">
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahdev5&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## ⚡ Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asadullahdev5&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=asadullahdev5&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+## 📈 Weekly Development Breakdown
+
+```text
+Java           55%
+Spring Boot    25%
+DSA             12%
+MySQL            8%
+```
+
+---
+
+## 🎯 2026 Goals
+
+✔ Master Java & Spring Boot
+✔ Solve 500+ DSA Problems
+✔ Build Scalable Backend Applications
+✔ Contribute to Open Source
+✔ Become a Strong Backend Engineer
+
+---
+
+<div align="center">
+
+### ✨ “Code. Learn. Build. Repeat.” ✨
+
+</div>
