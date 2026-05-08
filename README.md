@@ -2,14 +2,14 @@
 
 # 👋 Hey, I'm Asadullah
 
-### ☕ Java Developer | Backend Enthusiast | Problem Solver
+### ☕ Java Developer | Spring Boot Learner | Backend Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=700&lines=Java+Developer;Spring+Boot+Learner;Backend+Developer;DSA+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF99&center=true&vCenter=true&random=false&width=750&lines=Java+Developer;Backend+Developer;Spring+Boot+Learner;DSA+Enthusiast;Always+Learning+New+Things" />
 
 <br>
 
 <a href="https://linkedin.com/in/asad-ullah-553b152b3">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/asadullahdev5">
@@ -22,24 +22,41 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=asadullahdev5&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=asadullahdev5&label=PROFILE+VIEWS&color=00ff99&style=for-the-badge" />
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-## 🚀 About Me
+# 🚀 About Me
 
-* ☕ Passionate about **Java & Backend Development**
+```java id="x8q7tm"
+class Asadullah {
+
+    String role = "Java Developer";
+    String focus = "Backend Development";
+
+    String[] skills = {
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "DSA",
+        "Git & GitHub"
+    };
+
+    String currentGoal = "Become a Professional Software Engineer";
+}
+```
+
 * 🌱 Currently learning **Spring Boot & System Design**
-* 💡 Love solving **DSA Problems**
-* 📚 Exploring **Scalable Backend Applications**
-* 🎯 Goal: Become a **Professional Software Engineer**
+* 💡 Passionate about **Backend Development**
+* ⚡ Love solving **DSA Problems**
+* 📚 Exploring **Scalable Applications**
 * 📫 Reach me at: **[asadullahdev5@gmail.com](mailto:asadullahdev5@gmail.com)**
 
-<br><br>
+<br>
 
 ---
 
@@ -47,7 +64,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,html,css,js,vscode" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,html,css,js,vscode,idea" />
 
 </div>
 
@@ -57,9 +74,9 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=asadullahdev5&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=asadullahdev5&show_icons=true&theme=vision-friendly-dark&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=asadullahdev5&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=asadullahdev5&theme=vision-friendly-dark&hide_border=true"/>
 
 </div>
 
@@ -69,17 +86,17 @@
 
 <div align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahdev5&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahdev5&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# ⚡ GitHub Activity Graph
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asadullahdev5&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asadullahdev5&bg_color=000000&color=00ff99&line=00ff99&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
@@ -89,15 +106,25 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=asadullahdev5&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=asadullahdev5&theme=matrix&no-frame=true&row=1&column=7"/>
 
 </div>
 
 ---
 
-# 📈 Weekly Development Breakdown
+# 🔥 Contribution Snake
 
-```text
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+</div>
+
+---
+
+# 📊 Weekly Development Breakdown
+
+```text id="yrw1wq"
 Java           55%
 Spring Boot    25%
 DSA             12%
@@ -106,7 +133,7 @@ MySQL            8%
 
 ---
 
-# 🎯 Goals for 2026
+# 🎯 2026 Goals
 
 ✔ Master Java & Spring Boot
 ✔ Solve 500+ DSA Problems
@@ -118,10 +145,11 @@ MySQL            8%
 
 # ⚡ Fun Fact
 
-```java
+```java id="j3r0m9"
 while(!success){
-    keepLearning();
-    keepBuilding();
+    practice();
+    learn();
+    build();
 }
 ```
 
@@ -129,6 +157,6 @@ while(!success){
 
 <div align="center">
 
-### ✨ “Code. Learn. Build. Repeat.” ✨
+### ✨ Code • Learn • Build • Repeat ✨
 
 </div>
