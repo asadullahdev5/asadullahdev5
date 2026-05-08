@@ -51,8 +51,6 @@ I enjoy building scalable applications and improving my programming skills throu
 * 📖 Learning **Spring Boot & System Design**
 * 💬 Ask me about **Java, OOP, DSA, and Backend Development**
 * 📫 Reach me at: **[asadullahdev5@gmail.com](mailto:asadullahdev5@gmail.com)**
-* 📄 <a href="https://drive.google.com/file/d/1-tax_LZSbij6lAXZNJHHm0Xp0IH_tGTl/view?usp=sharing">Resume</a>
-
 </td>
 
 <td width="50%">
