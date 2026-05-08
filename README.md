@@ -31,22 +31,38 @@ I am a **Java Developer** dedicated to building robust backends and scalable sof
 
 ## 📊 My GitHub Journey
 
+<div align="center">
+
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Most Used Languages</h3>
-      <!-- Alternate Stable Link for Top Langs -->
-      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=asadullahdev5&layout=compact&theme=vision-friendly-dark&hide_border=true" width="100%" alt="Top Languages" />
-    </td>
-    <td width="50%">
-      <h3 align="center">GitHub Activity</h3>
-      <!-- Alternate Stable Link for Stats -->
-      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=asadullahdev5&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="100%" alt="GitHub Stats" />
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+<h3 align="center">💻 Most Used Languages</h3>
+
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahdev5&layout=compact&theme=vision-friendly-dark&hide_border=true" 
+width="100%" 
+alt="Top Languages" />
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">📈 GitHub Activity</h3>
+
+<img 
+src="https://github-readme-stats.vercel.app/api?username=asadullahdev5&show_icons=true&theme=vision-friendly-dark&hide_border=true" 
+width="100%" 
+alt="GitHub Stats" />
+
+</td>
+</tr>
 </table>
 
+</div>
+
 ---
+
 
 ## 🛠 Weekly Development Focus (Java Ecosystem)
 
