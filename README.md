@@ -1,6 +1,9 @@
 <div align="center">
+# 👋 Hey, I'm Asadullah
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Learner;DSA+Enthusiast;Backend+Developer;Always+Learning+New+Things" />
+### ☕ Java Developer | Backend Enthusiast | Problem Solver
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Hi+I'm+Asadullah;Java+Developer;Spring+Boot+Learner;DSA+Enthusiast;Backend+Developer;Always+Learning+New+Things" />  
 
 <br><br>
 
