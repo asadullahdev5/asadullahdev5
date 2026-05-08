@@ -50,16 +50,18 @@ I enjoy building scalable applications and improving my programming skills throu
 * 🔭 Currently working on **Java & Backend Projects**
 * 📖 Learning **Spring Boot & System Design**
 * 💬 Ask me about **Java, OOP, DSA, and Backend Development**
-* 📫 Reach me at: **[asadullahdev5@gmail.com](mailto:asadullahdev5@gmail.com)**
+* 📫 Reach me at: **<a href="mailto:asadullahdev5@gmail.com">[asadullahdev5@gmail.com](mailto:asadullahdev5@gmail.com)</a>**
+
 </td>
 
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=asadullahdev5&show_icons=true&theme=tokyonight" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=asadullahdev5&show_icons=true&theme=vision-friendly-dark&hide_border=true&cache_seconds=1800" />
 
 </td>
 </tr>
 </table>
+
 
 ---
 
