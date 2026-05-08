@@ -1,130 +1,110 @@
-# Hi there, I'm Asadullah 👋
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" width="35" /> Hey, I'm Asadullah
 
 <p align="left">
   <a href="https://linkedin.com/in/asad-ullah-553b152b3">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="https://github.com/asadullahdev5">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
   <a href="https://personal-pink-alpha.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-I am a passionate **Java Developer** ☕ with a strong interest in:
+```java
+public class Asadullah {
 
-* Backend Development
-* Object-Oriented Programming (OOP)
-* Data Structures & Algorithms
-* Database Management Systems
-* Software Engineering
+    String role = "Java Developer";
+    String focus = "Backend Development";
+    
+    String[] skills = {
+        "Java",
+        "OOP",
+        "DSA",
+        "SQL",
+        "Problem Solving"
+    };
 
-I enjoy building efficient, scalable, and user-friendly applications while continuously improving my problem-solving skills.
+    String currentLearning = "Spring Boot & System Design";
+}
+```
+
+💻 Passionate about building clean and scalable applications
+☕ Focused on Java Backend Development
+🚀 Continuously improving problem-solving and development skills
+🎯 Interested in Software Engineering & System Design
 
 ---
 
-## 💡 Currently Learning
-
-🔹 Advanced Java & Spring Boot
-🔹 REST APIs & Backend Architecture
-🔹 Database Design & Optimization
-🔹 System Design Fundamentals
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Languages & Technologies
+# 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,js,html,css,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,mysql,html,css,git,github,vscode,idea" />
 </p>
 
 ---
 
-## 📌 Personal Info
-
-<table>
-<tr>
-<td width="55%">
-
-* 🔭 Currently working on **Java Projects**
-* 🌱 Learning **Spring Boot & Backend Development**
-* 💬 Ask me about **Java, OOP, and Programming Fundamentals**
-* 📫 Reach me at: **[asadullahdev5@gmail.com](mailto:asadullahdev5@gmail.com)**
-* ⚡ Fun fact: I love solving programming problems and improving logic building skills.
-
-</td>
-
-<td width="45%">
-
-<p align="right">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320px">
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 GitHub Stats
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=asadullahdev5&show_icons=true&theme=tokyonight&hide_border=true" width="100%">
-</td>
-
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahdev5&layout=compact&theme=tokyonight&hide_border=true" width="100%">
-</td>
-</tr>
-</table>
-
----
-
-## 🔥 Contribution Streak
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadullahdev5&theme=tokyonight&hide_border=true">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=asadullahdev5&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&rank_icon=github" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahdev5&layout=compact&theme=github_dark&hide_border=true&border_radius=10" />
 </p>
 
 ---
 
-## 🎯 Goals for 2026
+# 🔥 Contribution Streak
 
-✅ Master Java Backend Development
-✅ Build Full-Stack Projects
-✅ Learn System Design
-✅ Contribute to Open Source
-✅ Improve Problem Solving & DSA
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=asadullahdev5&theme=github-dark&hide_border=true&border_radius=10" />
+</p>
 
 ---
 
-## 🤝 Connect With Me
+# 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asadullahdev5&theme=github-dark&hide_border=true&radius=12" />
+</p>
+
+---
+
+# 🎯 Current Goals
+
+* 🚀 Master Java & Spring Boot
+* 📚 Improve DSA & Problem Solving
+* 🛠 Build Real-World Backend Projects
+* 🌐 Learn Scalable System Design
+* 🤝 Contribute to Open Source
+
+---
+
+# 📫 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/asad-ullah-553b152b3">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="mailto:asadullahdev5@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="mailto:asadullahdev5@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://linkedin.com/in/asad-ullah-553b152b3">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="https://github.com/asadullahdev5">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>⭐ “Code. Learn. Build. Repeat.” ⭐</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=120&section=footer"/>
 </p>
