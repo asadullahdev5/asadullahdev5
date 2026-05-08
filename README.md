@@ -122,32 +122,32 @@ MySQL            8%
 
 </div
 
+<!-- Java Neon Animation -->
+
+<img align="right" alt="Java Coding" width="380"
+src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+
+<!-- Java Programmer -->
+
+<img align="right" alt="Java Developer" width="380"
+src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+
+<!-- Java + Coding Style -->
+
+<img align="right" alt="Java Backend Developer" width="380"
+src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+
+<!-- Best Professional Java Style -->
+
+<img align="right" alt="Java Developer" width="380"
+src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/coding.gif">
+
+Ye wala sabse zyada professional lagta hai Java/backend README ke liye:
+
+```html id="y8r3pw"
+<img align="right" alt="Java Developer" width="380"
+src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/coding.gif">
+```
 
 
-
-
-  <!-- Option 1 : Professional Coding GIF -->
-
-<img align="right" alt="Coding" width="350" 
-src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-<!-- Option 2 : Dark Hacker Style -->
-
-<img align="right" alt="Coding" width="350" 
-src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-
-<!-- Option 3 : Clean Programmer GIF -->
-
-<img align="right" alt="Coding" width="350" 
-src="https://user-images.githubusercontent.com/74038190/212744275-2d0f5b8f-6a7a-4d58-bc5f-3f8f5c5b7c4b.gif">
-
-<!-- Option 4 : Futuristic Developer -->
-
-<img align="right" alt="Coding" width="350" 
-src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-
-<!-- Option 5 : Java / Backend Style -->
-
-<img align="right" alt="Coding" width="350" 
-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
