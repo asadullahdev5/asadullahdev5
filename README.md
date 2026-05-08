@@ -23,11 +23,9 @@
 * ☕ Passionate **Java Developer**
 * 🌱 Currently learning **Spring Boot & System Design**
 * 💡 Love solving **DSA & Backend Problems**
-* 📚 Exploring **Databases & Scalable Applications**
-* 🎯 Goal: Become a **Professional Software Engineer**
-* 📫 Reach me at: **[asadullahdev5@gmail.com](mailto:asadullahdev5@gmail.com)**
-
-<br><br>
+* 🔍 Exploring **Databases & Scalable Applications**
+* 🎯 Goal: Become a Professional Software Engineer
+* 📫 Reach me at: asadullahdev5@gmail.com
 
 ---
 
