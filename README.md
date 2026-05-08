@@ -4,7 +4,7 @@
 
 ### ☕ Java Developer | Backend Enthusiast | Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Learner;DSA+Enthusiast;Backend+Developer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=700&lines=Java+Developer;Spring+Boot+Learner;Backend+Developer;DSA+Enthusiast;Always+Learning+New+Things" />
 
 <br>
 
@@ -28,14 +28,14 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ## 🚀 About Me
 
-* ☕ Passionate **Java Developer**
+* ☕ Passionate about **Java & Backend Development**
 * 🌱 Currently learning **Spring Boot & System Design**
-* 💡 Love solving **DSA & Backend Problems**
-* 📚 Exploring **Databases & Scalable Applications**
+* 💡 Love solving **DSA Problems**
+* 📚 Exploring **Scalable Backend Applications**
 * 🎯 Goal: Become a **Professional Software Engineer**
 * 📫 Reach me at: **[asadullahdev5@gmail.com](mailto:asadullahdev5@gmail.com)**
 
@@ -43,7 +43,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
@@ -53,29 +53,29 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=asadullahdev5&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=asadullahdev5&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=asadullahdev5&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=asadullahdev5&theme=tokyonight&hide_border=true&border_radius=10"/>
 
 </div>
 
 ---
 
-## 💻 Most Used Languages
+# 💻 Most Used Languages
 
 <div align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahdev5&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahdev5&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
 
 </div>
 
 ---
 
-## ⚡ Activity Graph
+# ⚡ GitHub Activity Graph
 
 <div align="center">
 
@@ -85,17 +85,17 @@
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=asadullahdev5&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=asadullahdev5&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
 ---
 
-## 📈 Weekly Development Breakdown
+# 📈 Weekly Development Breakdown
 
 ```text
 Java           55%
@@ -106,13 +106,24 @@ MySQL            8%
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 Goals for 2026
 
 ✔ Master Java & Spring Boot
 ✔ Solve 500+ DSA Problems
 ✔ Build Scalable Backend Applications
 ✔ Contribute to Open Source
 ✔ Become a Strong Backend Engineer
+
+---
+
+# ⚡ Fun Fact
+
+```java
+while(!success){
+    keepLearning();
+    keepBuilding();
+}
+```
 
 ---
 
