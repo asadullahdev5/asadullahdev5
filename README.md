@@ -28,7 +28,7 @@
 
 ---
 
-<img align="right" alt="Java Developer" width="280"
+<img align="right" alt="Java Developer" width="310"
 src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXB1d3Nmc3NleXQ3cm5hNWZvMnBiejhydDQ4NXB2c3dlNnJmbjFidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J1gms3eB8qK3TMaMoA/giphy.gif">
 
 ## 🚀 About Me
