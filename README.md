@@ -5,17 +5,21 @@
 ### ☕ Java Developer | Backend Enthusiast | Problem Solver
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Hi+I'm+Asadullah;Java+Developer;Spring+Boot+Learner;DSA+Enthusiast;Backend+Developer;Always+Learning+New+Things" />
+
 <br>
+
 <img src="https://komarev.com/ghpvc/?username=asadullahdev5&label=Profile%20Views&color=2F80ED&style=for-the-badge" />
 </div>
 ---
 <div align="center">
-<img 
+
+  <img 
   align="right"
   width="281"
   style="padding: 43px; margin-top: 60px;"
   src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazFqcnkzZDFlbnJjNHJ5YnQydGF4eXZ6bHZ3OTNiNXFzNzR6dDNwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93X7kOOzkrd2eQvFnX/giphy.gif"
 />
+
 </div>
 
 ## 🚀 About Me
