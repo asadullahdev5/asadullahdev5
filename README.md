@@ -15,8 +15,11 @@
 ---
 
 <div align="center">
-  <img align="right" width="220" 
-https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazFqcnkzZDFlbnJjNHJ5YnQydGF4eXZ6bHZ3OTNiNXFzNzR6dDNwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93X7kOOzkrd2eQvFnX/giphy.gif
+  <img 
+    align="right" 
+    width="220" 
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazFqcnkzZDFlbnJjNHJ5YnQydGF4eXZ6bHZ3OTNiNXFzNzR6dDNwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93X7kOOzkrd2eQvFnX/giphy.gif"
+  />
 </div>
 
 ## 🚀 About Me
