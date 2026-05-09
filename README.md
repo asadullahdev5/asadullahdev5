@@ -23,8 +23,8 @@
 />
 
 </div>
-## 🚀 About Me
 
+## 🚀 About Me
 * ☕ Passionate **Java Developer**
 * 🌱 Currently learning **Spring Boot & System Design**
 * 💡 Love solving **DSA & Backend Problems**
