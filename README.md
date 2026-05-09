@@ -15,7 +15,8 @@
 ---
 
 <div align="center">
-  <img align="right" width="220" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXB1d3Nmc3NleXQ3cm5hNWZvMnBiejhydDQ4NXB2c3dlNnJmbjFidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J1gms3eB8qK3TMaMoA/giphy.gif" style="margin-left: 20px;">
+  <img align="right" width="220" 
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazFqcnkzZDFlbnJjNHJ5YnQydGF4eXZ6bHZ3OTNiNXFzNzR6dDNwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93X7kOOzkrd2eQvFnX/giphy.gif
 </div>
 
 ## 🚀 About Me
