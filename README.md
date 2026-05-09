@@ -23,11 +23,6 @@
 />
 
 </div>
-
-
-
-
-
 ## 🚀 About Me
 
 * ☕ Passionate **Java Developer**
